@@ -1,3 +1,3 @@
 agdb
 ====
-Please take a look at the wiki for more information.
+Please take a look at the [https://github.com/Autism-Genetic-Database/agdb/wiki wiki] for more information.
